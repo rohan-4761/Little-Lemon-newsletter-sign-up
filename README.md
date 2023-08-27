@@ -20,7 +20,7 @@ The Newsletter Signup Page is designed to provide users with an intuitive way to
 
 Follow these steps to run the project locally on your machine:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/Little-Lemon-newsletter-signup.git`
+1. **Clone the Repository:** `git clone https://github.com/rohan_4761/Little-Lemon-newsletter-signup.git`
 
 2. **Navigate to Project Directory:** `cd Little-Lemon-newsletter-signup`
 
