@@ -20,9 +20,9 @@ The Newsletter Signup Page is designed to provide users with an intuitive way to
 
 Follow these steps to run the project locally on your machine:
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/Little-lemon-newsletter-signup-react-native.git`
+1. **Clone the Repository:** `git clone https://github.com/your-username/Little-Lemon-newsletter-signup.git`
 
-2. **Navigate to Project Directory:** `cd newsletter-signup-react-native`
+2. **Navigate to Project Directory:** `cd Little-Lemon-newsletter-signup`
 
 3. **Install Dependencies:** `npm install` or `yarn install`
 
